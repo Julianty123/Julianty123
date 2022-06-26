@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2> Hi there 👋, I'm Julian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 
 ✨ **Julianty123/Julianty123** ✨:
 
@@ -10,11 +12,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<h2> Hi, I'm Julian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
 
 [![GitHub Julianty123](https://img.shields.io/github/followers/Julianty123?label=follow&style=social)](https://github.com/Julianty123)
 
