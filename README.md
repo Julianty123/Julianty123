@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on None.
 - 🌱 I’m currently learning JavaScript, HTML5, CSS3.
 - 👯 I’m looking to collaborate on AI & Automation.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about JavaFx..
-- 📫 How to reach me: ...
-- 😄 Pronouns: I like to call myself julianty (Im not girl hahah)
+- 🤔 I’m looking for help with Machine Learning and Data Science.
+- 💬 Ask me about JavaFx or something related to Java.
+- 📫 How to reach me: dm me.
+- 😄 Pronouns: I like to call myself julianty (Im not girl hahah).
 - ⚡ Fun fact: I was born the same month that Stephen Hawking died and my birthday is close to International Women's Day.
 
 [![GitHub Julianty123](https://img.shields.io/github/followers/Julianty123?label=follow&style=social)](https://github.com/Julianty123)
