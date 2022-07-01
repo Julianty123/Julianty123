@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with Machine Learning & Data Science.
 - 💬 Ask me about JavaFx or something related to Java.
 - 📫 How to reach me: Dm me.
-- 😄 Pronouns: I like to call myself julianty (Im not girl hahah).
+- 😄 Pronouns: I like to call myself Julianty (Im not girl hahah).
 - ⚡ Fun fact: I was born the same month that Stephen Hawking died and my birthday is close to International Women's Day.
 
 [![GitHub Julianty123](https://img.shields.io/github/followers/Julianty123?label=follow&style=social)](https://github.com/Julianty123)
