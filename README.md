@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on None.
 - 🌱 I’m currently learning JavaScript, HTML5, CSS3.
 - 👯 I’m looking to collaborate on AI & Automation.
-- 🤔 I’m looking for help with Machine Learning and Data Science.
+- 🤔 I’m looking for help with Machine Learning & Data Science.
 - 💬 Ask me about JavaFx or something related to Java.
-- 📫 How to reach me: dm me.
+- 📫 How to reach me: Dm me.
 - 😄 Pronouns: I like to call myself julianty (Im not girl hahah).
 - ⚡ Fun fact: I was born the same month that Stephen Hawking died and my birthday is close to International Women's Day.
 
