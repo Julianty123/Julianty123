@@ -3,7 +3,7 @@
 <p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianty123&langs_count=10&theme=dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianty123&langs_count=10&theme=dark&layout=compact" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=Julianty123&show_icons=true&theme=gruvbox"/>
 <p>
 
