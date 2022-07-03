@@ -1,12 +1,11 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22751572/176600248-efb67117-0c5c-4050-a1dd-00d3869f929f.gif" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianty123&theme=dark">
 <p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianty123&langs_count=10&theme=dark&layout=compact" alt="Julianty123 :: Top Langs" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Julianty123&show_icons=true&theme=gruvbox"/></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julianty123&show_icons=true&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianty123&langs_count=10&theme=dark&layout=compact">
+<p>
 
 <h2> Hi there 👋, I'm Julian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
 <img align='right' src="https://images.prismic.io/developer-economics/7ef728200dcb7a79b2ca49e6ac26f8aa6956e28e_join-community.png" width="230">
