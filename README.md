@@ -5,14 +5,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianty123&langs_count=10&theme=dark&layout=compact" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=Julianty123&show_icons=true&theme=gruvbox"/>
-  
   <a href="https://github.com/Julianty123/GMazeRunner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=GMazeRunner&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=GMazeRunner&theme=dark&show_owner=true">
   </a>
   <a href="https://github.com/Julianty123/Account-Creator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=Account-Creator&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=Account-Creator&theme=dark&show_owner=true">
   <a>
 <p>
+
+
 
 <h2> Hi there 👋, I'm Julian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
 
