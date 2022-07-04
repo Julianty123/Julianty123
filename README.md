@@ -1,5 +1,8 @@
 <p align="center">
-  <img align='right' src="https://user-images.githubusercontent.com/22751572/176600248-efb67117-0c5c-4050-a1dd-00d3869f929f.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/22751572/176600248-efb67117-0c5c-4050-a1dd-00d3869f929f.gif" width="500">
+<p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianty123&langs_count=10&theme=dark&layout=compact" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=Julianty123&show_icons=true&theme=gruvbox"/>
   
