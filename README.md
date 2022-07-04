@@ -8,8 +8,11 @@
   
 <p align="center">
   <a href="https://github.com/Julianty123/GMazeRunner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=GMazeRunner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=GMazeRunner&theme=dark">
   </a>
+  <a href="https://github.com/Julianty123/Account-Creator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=Account-Creator&theme=dark">
+  <a>
 <p>
 
 <h2> Hi there 👋, I'm Julian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
