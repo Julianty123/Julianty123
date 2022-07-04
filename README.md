@@ -1,12 +1,8 @@
 <p align="center">
-<p>
-
-<p align="center">
+  <img align='right' src="https://user-images.githubusercontent.com/22751572/176600248-efb67117-0c5c-4050-a1dd-00d3869f929f.gif" width="500">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianty123&langs_count=10&theme=dark&layout=compact" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=Julianty123&show_icons=true&theme=gruvbox"/>
-<p>
   
-<p align="center">
   <a href="https://github.com/Julianty123/GMazeRunner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=GMazeRunner&theme=dark">
   </a>
@@ -18,7 +14,6 @@
 <h2> Hi there 👋, I'm Julian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
 
 <img align='right' src="https://images.prismic.io/developer-economics/7ef728200dcb7a79b2ca49e6ac26f8aa6956e28e_join-community.png" width="230">
-<img align='right' src="https://user-images.githubusercontent.com/22751572/176600248-efb67117-0c5c-4050-a1dd-00d3869f929f.gif" width="200">
 
 
 - 🔭 I’m currently working on None.
@@ -77,7 +72,7 @@ const julian = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love Programming and Technology, I hope one day to improve the quality of life for people
+<em><b>I love Programming and Technology, I hope one day to improve the quality of life for people
 
 ---
 
