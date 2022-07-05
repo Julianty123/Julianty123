@@ -11,6 +11,12 @@
   <a href="https://github.com/Julianty123/Account-Creator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=Account-Creator&theme=dark&show_owner=true">
   <a>
+  <a href="https://github.com/Julianty123/alura-reto1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=alura-reto1&theme=dark&show_owner=true">
+  <a>
+  <a href="https://github.com/sirjonasxx/G-Earth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirjonasxx&repo=G-Earth&theme=dark&">
+  <a>
 <p>
 
 
