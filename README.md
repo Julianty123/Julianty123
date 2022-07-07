@@ -79,7 +79,7 @@ public class CustomSpringEventListener implements ApplicationListener<CustomSpri
 ```
 
 ```js
-const julian = {
+const Julianty = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [Node, JavaFX, Maven],
