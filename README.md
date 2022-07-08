@@ -25,8 +25,6 @@
   <a>
 <p>
 
-
-
 <h2> Hi there 👋, I'm Julian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
 
 <img align='right' src="https://images.prismic.io/developer-economics/7ef728200dcb7a79b2ca49e6ac26f8aa6956e28e_join-community.png" width="230">
@@ -54,6 +52,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" width="60" height="60">
   <img src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff">
 <p>
+
+<div align="center" style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
+</div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
