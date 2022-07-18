@@ -58,7 +58,7 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"><br>
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### (ᵔᴥᵔ) A little more about me...  
 
 ```java
 public class LambdaRequestStreamHandler
