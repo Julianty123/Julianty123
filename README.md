@@ -25,6 +25,10 @@
   <a>
 <p>
 
+<p align="center">
+  <img src="https://opengraph.githubassets.com/cb52a8c8f1c2773913e3cabd633051dd07b12e1e/Julianty123/GAdvancedMove" width="300">
+<p>
+
 <h2> Hi there 👋, I'm Julian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
 
 <img align='right' src="https://images.prismic.io/developer-economics/7ef728200dcb7a79b2ca49e6ac26f8aa6956e28e_join-community.png" width="230">
