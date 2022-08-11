@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22751572/176600248-efb67117-0c5c-4050-a1dd-00d3869f929f.gif" width="500">
 <p>
