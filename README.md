@@ -50,13 +50,19 @@
 
 ###  Badges Alura Latam 🥇
 <p align="center">
-  <img  width="150"  src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
-  <img  width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
+  <img width="150" src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
+  <img width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
   <img width="150" src="https://user-images.githubusercontent.com/22751572/182529642-427875e4-31c1-42f5-9943-eceb30859b2e.png">
   <img width="150" src="https://user-images.githubusercontent.com/22751572/185841296-31c25af0-df01-4ac1-bd9f-a4ddb65d849f.png">
   <img width="150" src="https://user-images.githubusercontent.com/22751572/193544248-16c89d8b-1334-4ef1-9a4c-983d8098ea2d.png">
-  <img width="150" src="https://user-images.githubusercontent.com/22751572/195502666-5aeca6ec-af99-472a-897e-ba4504d94664.png">
+  <img width="150" src="https://user-images.githubusercontent.com/22751572/195502666-5aeca6ec-af99-472a-897e-ba4504d94664.png">  
 <p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 ###  Programming Languages ✍
 <p align="center">
@@ -70,6 +76,10 @@
 </div>
 
 ### (ᵔᴥᵔ) A little more about me...  
+
+<div align="center">
+  <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="100" height="100">
+</div>
 
 ```java
 public class LambdaRequestStreamHandler
