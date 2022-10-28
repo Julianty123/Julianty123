@@ -89,6 +89,15 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
   <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"><br>
 </div>
+    
+###  IDE's 👩‍💻
+
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![ApacheNetbeans](https://img.shields.io/badge/apache%20netbeans-000000?style=flat&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
+
+<div aling="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cquisper&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### (ᵔᴥᵔ) A little more about me...  
 
