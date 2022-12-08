@@ -34,6 +34,9 @@
 
 <h2> Hi there 👋, I'm Julian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
 
+<img align='right' src="https://cdn-icons-png.flaticon.com/512/1674/1674970.png" width="30">
+<img align='right' src="https://cdn-icons-png.flaticon.com/512/168/168944.png" width="30">
+<img align='right' src="https://cdn-icons-png.flaticon.com/512/4053/4053303.png" width="30">
 <img align='right' src="https://images.prismic.io/developer-economics/7ef728200dcb7a79b2ca49e6ac26f8aa6956e28e_join-community.png" width="230">
 
 
