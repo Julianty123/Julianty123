@@ -1,3 +1,7 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Julianty123&label=Profile%20Views&color=2&pretty=false" />
+</a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world+!;How+are+you+?)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it+programming+.+.+.)](https://git.io/typing-svg)
 
