@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/22751572/176600248-efb67117-0c5c-4050-a1dd-00d3869f929f.gif" width="500">
 <p>
   
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Julianty123&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center">
@@ -94,6 +94,7 @@
 ###  Programming Languages ✍
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" width="60" height="60">
+  <br>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
