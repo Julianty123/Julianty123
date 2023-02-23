@@ -100,6 +100,8 @@
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/VS-VSCode-1572B6?style=for-the-badge&logo=vscode3&logoColor=white&labelColor=101010">
 <p>
 
 <div align="center">
