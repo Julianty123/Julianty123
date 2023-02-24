@@ -2,6 +2,8 @@
   <img src="https://visitcount.itsvg.in/api?id=Julianty123&label=Profile%20Views&color=2&pretty=false" />
 </a>
 
+[![GitHub Julianty123](https://img.shields.io/github/followers/Julianty123?label=follow&style=social)](https://github.com/Julianty123)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world+!;How+are+you+?)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it+programming+.+.+.)](https://git.io/typing-svg)
 
@@ -58,7 +60,7 @@
 - 😄 Pronouns: I like to call myself Julianty (Im not girl hahah).
 - ⚡ Fun fact: I was born the same month that Stephen Hawking died and my birthday is close to International Women's Day.
 
-[![GitHub Julianty123](https://img.shields.io/github/followers/Julianty123?label=follow&style=social)](https://github.com/Julianty123)
+
 
 ###  Badges Alura Latam 🥇
 <p align="center">
