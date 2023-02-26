@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/22751572/221392158-f38997dc-e31b-4f54-8922-3cd66a50a88f.png)
-
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Julianty123&label=Profile%20Views&color=2&pretty=false" />
 </a>
@@ -47,6 +45,9 @@
 
 <h2> Hi there 👋, I'm Julian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
 
+
+
+<img align='right' src="https://user-images.githubusercontent.com/22751572/221392158-f38997dc-e31b-4f54-8922-3cd66a50a88f.png" width="30">
 <img align='right' src="https://cdn-icons-png.flaticon.com/512/1674/1674970.png" width="30">
 <img align='right' src="https://cdn-icons-png.flaticon.com/512/168/168944.png" width="30">
 <img align='right' src="https://cdn-icons-png.flaticon.com/512/4053/4053303.png" width="30">
