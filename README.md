@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/22751572/221392158-f38997dc-e31b-4f54-8922-3cd66a50a88f.png)
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Julianty123&label=Profile%20Views&color=2&pretty=false" />
 </a>
@@ -18,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianty123&langs_count=10&theme=dark&layout=compact" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=Julianty123&show_icons=true&theme=gruvbox"/>
   
-  ## Repositories
+  ## :notebook_with_decorative_cover: Repositories
   <a href="https://github.com/Julianty123/GMazeRunner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julianty123&repo=GMazeRunner&theme=dark&show_owner=true">
   </a>
