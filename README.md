@@ -122,7 +122,7 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"><br>
 </div>
 
-###  FrameWorks
+###  FrameWorks & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F">
 <p>
