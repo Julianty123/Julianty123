@@ -126,6 +126,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F">
 <p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/0bce73aec60a42ba22e7ae97613c98e3218167bb08befecea3f9562d7e3c4a31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d677261792e7376673f267374796c653d666c61742d737175617265266c6f676f3d446f636b6572266c6f676f436f6c6f723d626c7565">
+<p>
+  ""
 ###  IDE's 👩‍💻
 
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
