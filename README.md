@@ -155,6 +155,9 @@
 
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![ApacheNetbeans](https://img.shields.io/badge/apache%20netbeans-000000?style=flat&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
+  
+## OS's
+  <img src="https://camo.githubusercontent.com/0d9c30ffa06c69fa4e0ce73cc202087415b20fff75d49368b438e1e7f8935896/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465">
 
 <div aling="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cquisper&layout=compact&langs_count=7&theme=dark"/>
