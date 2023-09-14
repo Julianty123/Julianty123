@@ -4,7 +4,7 @@
 
 [![GitHub Julianty123](https://img.shields.io/github/followers/Julianty123?label=follow&style=social)](https://github.com/Julianty123)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world+!;I+Love+Programming+?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world+!;I+Love+Programming)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+develop+creative+things+.+.+.)](https://git.io/typing-svg)
 
