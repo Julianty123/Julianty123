@@ -1,3 +1,4 @@
+Counter of amazing people who have visited my profile 👉
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Julianty123&label=Profile%20Views&color=2&pretty=false" />
 </a>
