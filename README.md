@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Julián 😎</h1>
-<h3 align="center">I am an Enginner & enthusiast</h3>
+<h3 align="center">I am an Engineer & enthusiast</h3>
 
 Counter of amazing people who have visited my profile 👉
 <a href="https://visitcount.itsvg.in">
@@ -131,7 +131,7 @@ Counter of amazing people who have visited my profile 👉
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F">
   
-  <img src="https://camo.githubusercontent.com/3ab1eda70117a56d5b4f92bd7dbad1e29968623bafcfb58eab6a1f612722da6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a556e69742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d4a556e697435266c6f676f436f6c6f723d79656c6c6f77">
+  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white">
   
   <img src="https://camo.githubusercontent.com/a781ab8c217da049838f89c364206e7efb5043196c3eaf90dababf5eb43a41ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465">
   
