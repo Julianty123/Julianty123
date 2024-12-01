@@ -165,7 +165,7 @@ Counter of amazing people who have visited my profile 👉
   
 ###  IDE's 👩‍💻
 
-![Eclipse](https://camo.githubusercontent.com/4f2b9e3ac5d64cb0be13002983e6c9f5f998578e8cafae6dd2265cb41294e1dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45636c697073652d3243323235353f267374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
 ![Visual_Studio_Code](https://camo.githubusercontent.com/b9e127f83d0c73129bdaf7ac73229087f8a53f9f798793dce26d491cbafb8fc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666c61742d737175617265266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465)
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![ApacheNetbeans](https://img.shields.io/badge/apache%20netbeans-000000?style=flat&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
