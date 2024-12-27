@@ -149,7 +149,7 @@ Counter of amazing people who have visited my profile 👉
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-  <img src="https://camo.githubusercontent.com/4660e3fc9f1e45527fd4515111a257b8ded8ee0c735aa03dd97b0c5ceff916d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
   
   <img src="https://camo.githubusercontent.com/cb3df71c31a6b77d187839e25d0036c306c92d2b33af781e6827025bb84b5c4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465">
 <p>
