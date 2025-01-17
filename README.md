@@ -68,7 +68,11 @@ Counter of amazing people who have visited my profile 👉
 - 😄 Pronouns: I like to call myself Julianty (Im not girl hahah).
 - ⚡ Fun fact: I was born the same month that Stephen Hawking died and my birthday is close to International Women's Day.
 
-
+## 🌐 Social media (coming soon...):
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/) 
 
 ###  Badges Alura Latam 🥇
 <p align="center">
