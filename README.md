@@ -142,10 +142,6 @@ Counter of amazing people who have visited my profile 👉
   <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white">
   
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
-  
-  <img src="https://camo.githubusercontent.com/c451212457e37c86fd2c7d46e54a03cf980f6c4b2262a6e50e1bd619b68a8375/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d4343323932372e7376673f267374796c653d666c61742d737175617265266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465">
-  
-  <img src="https://camo.githubusercontent.com/de6fc3ceb411742ea2643fa461b401388987613d5dce400bb5f9c08d74673748/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f7261636c652d4638303030303f7374796c653d666c61742d737175617265266c6f676f3d6f7261636c65266c6f676f436f6c6f723d626c61636b">
 <p>
   
 ###  DataBases
@@ -154,8 +150,6 @@ Counter of amazing people who have visited my profile 👉
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  
-  <img src="https://camo.githubusercontent.com/cb3df71c31a6b77d187839e25d0036c306c92d2b33af781e6827025bb84b5c4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465">
 <p>
   
 ### TOOL's
@@ -164,7 +158,7 @@ Counter of amazing people who have visited my profile 👉
   
   <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white">
   
-  <img src="https://camo.githubusercontent.com/a9f773a9f230803a6949151a2dbc80fe85f67f474aa8cb1c5f19ec9b880d9e1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3030374143432e7376673f267374796c653d666c61742d737175617265266c6f676f3d6669676d61266c6f676f436f6c6f723d626c61636b">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
 <p>
   
 ###  IDE's 👩‍💻
