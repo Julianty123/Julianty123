@@ -3,7 +3,7 @@
 
 Counter of amazing people who have visited my profile 👉
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Julianty123&label=Profile%20Views&color=2&pretty=false" />
+  <img src="https://komarev.com/ghpvc/?username=Julianty123&color=yellow&style=flat-square" />
 </a>
 
 [![GitHub Julianty123](https://img.shields.io/github/followers/Julianty123?label=follow&style=social)](https://github.com/Julianty123)
