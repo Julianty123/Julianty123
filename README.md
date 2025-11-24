@@ -171,8 +171,7 @@ Counter of amazing people who have visited my profile 👉
 ## OS's
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width="50">
-![Linux](https://camo.githubusercontent.com/eaba5a5be03f099f179e05ec0b96003aa00af7eb9c94c2939b2b39e312e4e464/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b)
-  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50">
 
 <div aling="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cquisper&layout=compact&langs_count=7&theme=dark"/>
